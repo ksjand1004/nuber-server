@@ -1,0 +1,8 @@
+{
+  "name": "nuber-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ksjand1004/nuber-server.git",
+  "author": "SeongJu Kim <ksjand1004@gmail.com>",
+  "license": "MIT"
+}
